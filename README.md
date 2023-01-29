@@ -1,2 +1,5 @@
 # Hand3dRHD
-This repository contains results from the implementation of 2017 ICCV Learning to Estimate 3D Hand Pose from Single RGB Images by Christian Zimmermann, Thomas Brox
+This repository contains the video results for a convolutional neural network for 3D hand pose estimation from 2D key points in RGB images with no depth data in Python. 
+
+Reference: Benchmarked the model’s performance metrics (Confusion Matrix, Accuracy) with the results of the research paper Zimmermann, Christian, “Learning to estimate 3d hand pose from single RGB images, 2017”. 
+
